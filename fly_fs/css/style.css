@@ -1,0 +1,49 @@
+#page{
+  width:30%;
+  min-width:310px;
+  background:#fefefe;
+  margin:0 auto;
+}
+h1{
+  text-align:center;
+}
+h2{
+  text-align:center;
+  font-size:80%;
+}
+.message{
+  text-align:center;
+  padding:2% 0;
+}
+.message.success{
+  border:5px dashed green;
+  background:#E0FFFF;
+  padding:1%;
+}
+.message.danger{
+  border:5px dashed red;
+  background:#E0FFFF;
+  padding:1%;
+}
+.message span,
+.message time{
+  display:block;
+}
+footer .message{
+  margin-top:3%;
+}
+form{
+}
+form ul{
+  padding:0;
+  margin:0;
+}
+form ul li{
+  list-style:none;
+  padding:0;
+  margin:0;
+}
+form ul li.buttons{
+  margin-top:3%;
+  text-align:right;
+}
