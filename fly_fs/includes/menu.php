@@ -8,6 +8,9 @@ $menuTree = array(
   ),
   'extract' => array(
     'type' => 'action',
+  ),
+  'compress' => array(
+    'type' => 'action',
   )
 );
 /**

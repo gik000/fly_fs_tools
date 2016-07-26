@@ -1,2 +1,4 @@
 # PHPSTORM
 /.idea/*
+.idea
+*.idea
